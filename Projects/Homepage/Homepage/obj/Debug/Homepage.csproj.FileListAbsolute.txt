@@ -1,0 +1,63 @@
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.exe
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.pdb
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.exe
+c:\users\pc\documents\visual studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.home.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csproj.GenerateResource.Cache
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.exe.config
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.exe
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.pdb
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.exe
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.pdb
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\SE.add.resources
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.home.resources
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\azan.Form1.resources
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.welcome.resources
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Properties.Resources.resources
+C:\Users\lenovo\Downloads\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.welcome.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\SE.events.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Admin.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Head.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Society.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Task.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Chat.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Go.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.ann.resources
+C:\Users\dortemon\Downloads\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csproj.AssemblyReference.cache
+C:\Users\dortemon\Downloads\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.exe
+C:\Users\dortemon\Downloads\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.pdb
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csproj.AssemblyReference.cache
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.exe
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.pdb
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.exe.config
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.exe
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\bin\Debug\Homepage.pdb
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\SE.events.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Form1.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.chat.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Head.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Admin.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Society.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Task.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.ann.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.home.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Go.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.welcome.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.Properties.Resources.resources
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csproj.GenerateResource.cache
+C:\Users\dortemon\Documents\Visual Studio 2012\Visual Studio 2012\Projects\Homepage\Homepage\obj\Debug\Homepage.csproj.CoreCompileInputs.cache
